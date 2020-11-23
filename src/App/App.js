@@ -1,7 +1,7 @@
 import './App.css';
 import Navigation from '../Navigation/navigation'
 import Dashboard from '../content/dashboard/dashboard';
-import {Switch, Route} from 'react-router-dom';
+import {Switch, Route, Redirect} from 'react-router-dom';
 import About from '../content/about/about'
 import History from '../content/history/history'
 import React from "react";
@@ -18,6 +18,7 @@ function App() {
                 <Navigation />
                 <div className='main_content'>
                 <Switch>
+                    <Redirect from="/react-finance-board" to="/home" />
                 <Route exact path='/home' component={Dashboard}/>
                 <Route exact path='/about' component={About}/>
                 <Route exact path='/history' component={History}/>
