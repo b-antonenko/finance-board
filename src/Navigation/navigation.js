@@ -14,7 +14,7 @@ function Navigation() {
                 <h3>Pages</h3>
                 <nav>
                     <li className='nav_item'>
-                        <Link to="/">Dashboard</Link>
+                        <Link to="/home">Dashboard</Link>
                     </li>
                     <li className='nav_item'>
                         <Link to="/add">Create flow</Link>

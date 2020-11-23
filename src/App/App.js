@@ -18,7 +18,7 @@ function App() {
                 <Navigation />
                 <div className='main_content'>
                 <Switch>
-                <Route exact path='/' component={Dashboard}/>
+                <Route exact path='/home' component={Dashboard}/>
                 <Route exact path='/about' component={About}/>
                 <Route exact path='/history' component={History}/>
                 <Route exact path='/add-cash' component={AddCash}/>
