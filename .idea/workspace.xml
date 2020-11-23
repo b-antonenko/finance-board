@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a8279a-3e4c-464b-a5c3-88c912b45910" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -227,16 +227,15 @@
       <option name="presentableId" value="Default" />
       <updated>1605194365890</updated>
       <workItem from="1605194370346" duration="66280000" />
-      <workItem from="1606159189946" duration="1845000" />
+      <workItem from="1606159189946" duration="2115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68125000" />
+    <option name="totallyTimeSpent" value="68395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5010661" side_tool="true" weight="0.24947146" />
       <window_info id="npm" order="1" side_tool="true" />
