@@ -1,0 +1,13 @@
+.App {
+    background: grey;
+    overflow: hidden;
+}
+
+.main_content {
+    position: absolute;
+    left: 256px;
+    background-color: #E5E5E5;
+    height: 950px;
+    width: 100%;
+    box-sizing: border-box;
+}

@@ -1,0 +1,36 @@
+.vertical_bar {
+    height: 88px;
+    width: 100%;
+    right: 0px;
+    top: 0px;
+}
+
+.textfield {
+    position: relative;
+    width: 350px;
+    height: 40px;
+    border-radius: 100px;
+    outline: none;
+    left: 36px;
+    top: calc(50% - 40px/2);
+}
+
+.textfield:focus {
+    background-color: white;
+}
+
+.plus {
+    color: green;
+}
+
+.plus:hover {
+    color: darkgreen;
+}
+
+.minus {
+    color: indianred;
+}
+
+.minus:hover {
+    color: darkred;
+}

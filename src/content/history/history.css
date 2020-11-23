@@ -1,0 +1,27 @@
+.spending_list {
+    padding: 24px 0 0 24px;
+    height: 800px;
+    left: 24px;
+    right: 0px;
+    position: relative;
+}
+
+.spending_list h2{
+    font-size: 40px;
+    line-height: 46px;
+    letter-spacing: 0.2px;
+    margin-bottom: 24px;
+}
+
+.spendings_data {
+    width: 1100px;
+    height: 692px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.spendings_data thead {
+    font-weight: bolder;
+    background-color: gainsboro;
+}

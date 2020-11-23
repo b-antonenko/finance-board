@@ -1,0 +1,50 @@
+.content {
+    position: absolute;
+    background-color: #E5E5E5;
+    height: 950px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.content h3 {
+    position: absolute;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+    color: #25282B;
+    margin: 24px;
+}
+
+.spending_section {
+    height: 335px;
+    left: 36px;
+    right: 0px;
+    top: 60px;
+    position: relative;
+    border-radius: 15px;
+    background: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1110px;
+}
+
+.content table {
+    margin-top: 68px;
+    position: absolute;
+}
+
+.content thead {
+    font-weight: bolder;
+}
+
+.content tr:nth-child(n+5) {
+    display: none;
+}
+
+.tablewarning {
+    position: relative;
+    top: 100px;
+    left: 40px;
+    font-style: italic;
+}
