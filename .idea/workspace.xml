@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a8279a-3e4c-464b-a5c3-88c912b45910" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/dashboard/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/dashboard/dashboard.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,13 +28,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/content/dashboard/dashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,7 +128,6 @@
         <option value="$PROJECT_DIR$/src/reducers/index.js" />
         <option value="$PROJECT_DIR$/src/content/dashboard/verticalBar/vertical-bar.css" />
         <option value="$PROJECT_DIR$/src/content/add-cash/add-cash.js" />
-        <option value="$PROJECT_DIR$/src/content/dashboard/dashboard.js" />
         <option value="$PROJECT_DIR$/src/content/add-spendings/add-spendings.js" />
         <option value="$PROJECT_DIR$/src/content/dashboard/some-graphic/some-graphic.css" />
         <option value="$PROJECT_DIR$/src/content/dashboard/some-graphic/some-gtaphic.js" />
@@ -129,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/Navigation/navigation.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/App/App.js" />
+        <option value="$PROJECT_DIR$/src/content/dashboard/dashboard.js" />
       </list>
     </option>
   </component>
@@ -153,25 +166,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="finance-board" type="b2602c69:ProjectViewProjectNode" />
-              <item name="finance-board" type="462c0819:PsiDirectoryNode" />
+              <item name="react-finance-board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-finance-board" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="finance-board" type="b2602c69:ProjectViewProjectNode" />
-              <item name="finance-board" type="462c0819:PsiDirectoryNode" />
+              <item name="react-finance-board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-finance-board" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="finance-board" type="b2602c69:ProjectViewProjectNode" />
-              <item name="finance-board" type="462c0819:PsiDirectoryNode" />
+              <item name="react-finance-board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-finance-board" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="finance-board" type="b2602c69:ProjectViewProjectNode" />
-              <item name="finance-board" type="462c0819:PsiDirectoryNode" />
+              <item name="react-finance-board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-finance-board" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,14 +242,16 @@
       <updated>1605194365890</updated>
       <workItem from="1605194370346" duration="66280000" />
       <workItem from="1606159189946" duration="2115000" />
+      <workItem from="1606510655906" duration="259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68395000" />
+    <option name="totallyTimeSpent" value="68654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5010661" side_tool="true" weight="0.24947146" />
       <window_info id="npm" order="1" side_tool="true" />
@@ -581,16 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/dashboard/dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/dashboard/some-graphic/spendings-graphic.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -618,6 +624,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Navigation/navigation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -628,19 +641,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/dashboard/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
