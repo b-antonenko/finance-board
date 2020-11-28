@@ -1,1 +1,1 @@
-https://b-antonenko.github.io/react-finance-board/
+https://b-antonenko.github.io/finance-board/
