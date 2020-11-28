@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/finance-board/static/css/main.9aac5e09.chunk.css",
-    "main.js": "/finance-board/static/js/main.dd622e55.chunk.js",
-    "main.js.map": "/finance-board/static/js/main.dd622e55.chunk.js.map",
+    "main.js": "/finance-board/static/js/main.36de8ce7.chunk.js",
+    "main.js.map": "/finance-board/static/js/main.36de8ce7.chunk.js.map",
     "runtime-main.js": "/finance-board/static/js/runtime-main.3b9767f4.js",
     "runtime-main.js.map": "/finance-board/static/js/runtime-main.3b9767f4.js.map",
     "static/css/2.83342f34.chunk.css": "/finance-board/static/css/2.83342f34.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.83342f34.chunk.css",
     "static/js/2.e2e16470.chunk.js",
     "static/css/main.9aac5e09.chunk.css",
-    "static/js/main.dd622e55.chunk.js"
+    "static/js/main.36de8ce7.chunk.js"
   ]
 }
