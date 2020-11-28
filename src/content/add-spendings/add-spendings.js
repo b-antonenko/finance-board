@@ -42,7 +42,7 @@ class AddSpendings extends React.Component {
         e.preventDefault();
         console.log(this.state);
         this.props.add(this.state);
-        history.push('/');
+        history.push('/home');
         this.notify();
     };
 

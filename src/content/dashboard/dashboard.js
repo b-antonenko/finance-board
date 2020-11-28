@@ -14,7 +14,7 @@ function Dashboard() {
             <InfoCards/>
             <SomeGraphic/>
             <div className='spending_section'>
-                <h3>Last fadfsd operations</h3>
+                <h3>Last operations</h3>
             <SpendingsList/>
             </div>
         </div>
