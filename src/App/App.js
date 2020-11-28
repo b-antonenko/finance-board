@@ -18,7 +18,7 @@ function App() {
                 <Navigation />
                 <div className='main_content'>
                 <Switch>
-                    <Redirect from="/react-finance-board" to="/home" />
+                    <Redirect from="/finance-board" to="/home" />
                 <Route exact path='/home' component={Dashboard}/>
                 <Route exact path='/about' component={About}/>
                 <Route exact path='/history' component={History}/>
