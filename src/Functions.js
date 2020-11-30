@@ -76,3 +76,8 @@ export let sortSpendings = (state) => {
     console.log(groupsOfSpendings)
     return groupsOfSpendings;
 };
+
+export let filterCurrency = (state) => {
+    let result = [...state.filter(item =>{ return item.txt === "Долар США"}), ...state.filter(item =>{return item.txt === "Євро"}), ...state.filter(item =>{return item.txt === "Російський рубль"})]
+    return result;
+};

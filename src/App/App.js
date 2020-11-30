@@ -9,6 +9,7 @@ import AddCash from '../content/add-cash/add-cash'
 import AddSpendings from '../content/add-spendings/add-spendings';
 import {ToastContainer} from "react-toastify";
 import CreateFlow from '../content/create-flow/create-flow';
+import Forex from '../content/forex/forex';
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
                 <Route exact path='/add-cash' component={AddCash}/>
                 <Route exact path='/add-spendings' component={AddSpendings}/>
                 <Route exact path='/add' component={CreateFlow}/>
+                <Route exact path='/forex' component={Forex}/>
                 </Switch>
                     <ToastContainer />
                 </div>
